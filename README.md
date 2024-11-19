@@ -9,6 +9,8 @@ Yarrowia lipolytica is an industrially relevant yeast known for its capabilities
 
 This model is designed to represent key metabolic pathways in _Y. lipolytica_ with a specific focus on lipid metabolism. It includes pathways relevant to lipid biosynthesis, fatty acid degradation, TCA cycle, glycolysis.
 
+**Objective function** : TAG Biosynthesis
+
 Biological Compartments :
 The model includes five compartments to reflect cellular compartmentalization and metabolic flux distribution better:
 
