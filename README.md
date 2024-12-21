@@ -7,18 +7,18 @@ Yarrowia lipolytica is an industrially relevant yeast known for its capabilities
 ## **Model Description** :
 
 
-This model is designed to represent key metabolic pathways in _Y. lipolytica_ with a specific focus on lipid metabolism. It includes pathways relevant to lipid biosynthesis, fatty acid degradation, TCA cycle, glycolysis.
+This model is designed to represent key metabolic pathways in _Y. lipolytica_ with a specific focus on lipid metabolism. It includes pathways relevant to lipid metabolism.
 
 **Objective function** : TAG Biosynthesis
 
 Biological Compartments :
 The model includes five compartments to reflect cellular compartmentalization and metabolic flux distribution better:
 
-* Mitochondria (m): Site for TCA cycle, beta-oxidation, and oxidative phosphorylation.
-* Cytoplasm (c): Main site for glycolysis, amino acid synthesis, and lipid synthesis.
-* Endoplasmic Reticulum (r): Essential for lipid synthesis and protein processing.
-* Peroxisome (x) : Location for beta-oxidation of fatty acids and specific metabolic reactions.
-* Golgi Apparatus (g) : Involved in lipid transport and protein modification.
+* Mitochondria (m)
+* Cytoplasm (c)
+* Endoplasmic Reticulum (r)
+* Peroxisome (x) : 
+* Golgi Apparatus (g) : 
 
 ### **Reactions and Metabolites** :
 The model comprises approximately reactions and metabolites, with gene-protein-reaction associations where available. Major pathways include:
