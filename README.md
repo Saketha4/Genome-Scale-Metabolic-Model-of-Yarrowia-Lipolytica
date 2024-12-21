@@ -17,8 +17,8 @@ The model includes five compartments to reflect cellular compartmentalization an
 * Mitochondria (m)
 * Cytoplasm (c)
 * Endoplasmic Reticulum (r)
-* Peroxisome (x) : 
-* Golgi Apparatus (g) : 
+* Peroxisome (x) 
+* Golgi Apparatus (g) 
 
 ### **Reactions and Metabolites** :
 The model comprises approximately reactions and metabolites, with gene-protein-reaction associations where available. Major pathways include:
