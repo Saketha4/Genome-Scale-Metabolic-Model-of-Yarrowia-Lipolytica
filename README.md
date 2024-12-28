@@ -7,7 +7,7 @@ Yarrowia lipolytica is an industrially relevant yeast known for its capabilities
 ## **Model Description** :
 
 
-This model is designed to represent key metabolic pathways in _Y. lipolytica_ with a specific focus on lipid metabolism. It includes pathways relevant to lipid metabolism.
+This model is designed to represent key metabolic pathways in  Yarrowia lipolytica DSM 3286 with a specific focus on lipid metabolism. It includes pathways relevant to lipid metabolism.
 
 **Objective function** : TAG Biosynthesis
 
@@ -18,7 +18,8 @@ The model includes five compartments to reflect cellular compartmentalization an
 * Cytoplasm (c)
 * Endoplasmic Reticulum (r)
 * Peroxisome (x) 
-* Golgi Apparatus (g) 
+* Golgi Apparatus (g)
+* Extracellular (e)
 
 ### **Reactions and Metabolites** :
 The model comprises approximately 351 reactions and  431 metabolites, with gene-protein-reaction associations where available. Major pathways include:
@@ -33,7 +34,7 @@ The model comprises approximately 351 reactions and  431 metabolites, with gene-
 * Beta-Alanine Metabolism
 
 Data Sources
-Tools and Databases: KEGG, BiGG Models, UNIPROT, WoLF PSORT, COBRA Toolbox and the Y. lipolytica genome from NCBI.
+Tools and Databases: KEGG, BiGG Models, UNIPROT, WoLF PSORT, COBRA Toolbox and the Yarrowia lipolytica DSM 3286 genome from NCBI.
 Literature: Key studies on Y. lipolytica metabolism and biochemistry.
 
 ### **Constraints and Assumptions** :
