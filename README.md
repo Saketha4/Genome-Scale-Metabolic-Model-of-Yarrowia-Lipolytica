@@ -21,7 +21,7 @@ The model includes five compartments to reflect cellular compartmentalization an
 * Golgi Apparatus (g) 
 
 ### **Reactions and Metabolites** :
-The model comprises approximately reactions and metabolites, with gene-protein-reaction associations where available. Major pathways include:
+The model comprises approximately 351 reactions and  431 metabolites, with gene-protein-reaction associations where available. Major pathways include:
 
 * Central carbon metabolism (glycolysis, TCA cycle, pentose phosphate pathway)
 * Oxidative Phosphorylation
@@ -33,7 +33,7 @@ The model comprises approximately reactions and metabolites, with gene-protein-r
 * Beta-Alanine Metabolism
 
 Data Sources
-Tools and Databases: KEGG, BiGG Models, UNIPROT, PSORT, COBRA Toolbox and the Y. lipolytica genome from NCBI.
+Tools and Databases: KEGG, BiGG Models, UNIPROT, WoLF PSORT, COBRA Toolbox and the Y. lipolytica genome from NCBI.
 Literature: Key studies on Y. lipolytica metabolism and biochemistry.
 
 ### **Constraints and Assumptions** :
