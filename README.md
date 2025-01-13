@@ -34,7 +34,7 @@ The model comprises approximately 353 reactions and  434 metabolites, with gene-
 * Beta-Alanine Metabolism
 
 Data Sources
-Tools and Databases: KEGG, BiGG Models, UNIPROT, WoLF PSORT, COBRA Toolbox and the Yarrowia lipolytica DSM 3286 genome from NCBI.
+Tools and Databases: KEGG, BiGG Models, UNIPROT, WoLF PSORT, COBRApy and the Yarrowia lipolytica DSM 3286 genome from NCBI.
 Literature: Key studies on Y. lipolytica metabolism and biochemistry.
 
 ### **Constraints and Assumptions** :
