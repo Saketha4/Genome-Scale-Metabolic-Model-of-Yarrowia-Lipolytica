@@ -43,20 +43,20 @@ Constraints: Oxygen uptake rate and nutrient availability are limited based on t
 Assumptions: All reactions are assumed to follow mass and charge balance, and specific growth media components are defined for simulations.
 
 Model Construction and Curation
-The model was built by combining gene annotations and reaction pathways from curated metabolic databases and existing literature on Y. lipolytica. Reactions were added based on KEGG Database. Additionally, stoichiometric consistency checks were performed to correct any imbalances.
+The model is built by combining gene annotations and reaction pathways from KEGG database and existing literature on Y. lipolytica. Reactions were added based on KEGG Database. Additionally, stoichiometric consistency checks were performed to correct any imbalances.
 
 Curation Steps
 Extracted and validated reactions from the KEGG and BiGG databases.
 Incorporated compartment-specific reactions and metabolites.
-Added reactions to address identified gaps, ensuring connectivity in central metabolic pathways.
-Applied quality control measures for charge and mass balance.
+*Adding reactions to address identified gaps, ensuring connectivity in central metabolic pathways.
+Made sure to maintain charge and mass balance.
 
 Simulation Protocols
 The model can be used to simulate various metabolic states and environmental conditions using the COBRA Toolbox. Common simulation protocols include:
 
 1. Flux Balance Analysis (FBA): 
 2. Gene Knockout Analysis: 
-3. Pathway Analysis: 
+ 
 
 **Still working on model curation. Results will be shared here soon.**
 ### Results and Findings
