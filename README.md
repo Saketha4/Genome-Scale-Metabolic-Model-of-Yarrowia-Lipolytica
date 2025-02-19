@@ -46,9 +46,9 @@ Model Construction and Curation
 The model is built by combining gene annotations and reaction pathways from KEGG database and existing literature on Y. lipolytica. Reactions were added based on KEGG Database. Additionally, stoichiometric consistency checks were performed to correct any imbalances.
 
 Curation Steps
-Extracted and validated reactions from the KEGG and BiGG databases.
-Incorporated compartment-specific reactions and metabolites.
-*Adding reactions to address identified gaps, ensuring connectivity in central metabolic pathways.
+Extracted and validated reactions from the KEGG and BiGG databases.\
+Incorporated compartment-specific reactions and metabolites.\
+*Adding reactions to address identified gaps, ensuring connectivity in central metabolic pathways.\
 Made sure to maintain charge and mass balance.
 
 Simulation Protocols
