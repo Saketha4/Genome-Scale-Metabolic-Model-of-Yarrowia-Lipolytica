@@ -64,10 +64,10 @@ Preliminary simulations have shown that:
 
 ### Limitations and Future Work
 Limitations
-Some pathways may lack detail due to incomplete genome annotation.
+Some pathways may lack detail due to incomplete genome annotation.\
 Model assumptions, such as compartmentalization and reaction constraints, may limit the accuracy of predictions.
 Future Work
-Refinement of lipid metabolism pathways based on emerging experimental data.
+Refinement of lipid metabolism pathways based on emerging experimental data.\
 Incorporation of regulatory elements for more accurate simulations under various conditions.
 
 ### References
